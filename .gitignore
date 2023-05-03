@@ -1,3 +1,4 @@
-dd
-dd
 *.csv
+.ipynb_checkpoints
+AutogluonModels/*
+.kaggle/*
