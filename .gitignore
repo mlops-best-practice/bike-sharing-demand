@@ -1,4 +1,6 @@
 *.csv
 .ipynb_checkpoints
-AutogluonModels/*
+AutogluonModels
+*pkl
 .kaggle/*
+.env
